@@ -6,3 +6,5 @@ conflict change
 feature branch v2
 conflict change v2
 conflict change v2
+conflict change v3
+conflict change v3
